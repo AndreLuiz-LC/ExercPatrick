@@ -2,9 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
-/*08.FaÁa um programa que dado 2 palavras, determine:
-a. Se as palavras s„o iguais;
-b. Verifique se a segunda palavra È uma sub string da primeira. Ex: casa e casamento.*/
+/*08.Fa√ßa um programa que dado 2 palavras, determine:
+a. Se as palavras s√£o iguais;
+b. Verifique se a segunda palavra √© uma sub string da primeira. Ex: casa e casamento.*/
 
 int main (){
 char primeirapalavra [100];
